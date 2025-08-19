@@ -1,0 +1,14 @@
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.AssemblyInfo.cs
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/bin/Debug/net8.0-windows/ServiceManagerApp
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/bin/Debug/net8.0-windows/ServiceManagerApp.deps.json
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/bin/Debug/net8.0-windows/ServiceManagerApp.runtimeconfig.json
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/bin/Debug/net8.0-windows/ServiceManagerApp.dll
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/bin/Debug/net8.0-windows/ServiceManagerApp.pdb
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.dll
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/refint/ServiceManagerApp.dll
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.pdb
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ServiceManagerApp.genruntimeconfig.cache
+/project/sandbox/user-workspace/ServiceManagerApp/ServiceManagerApp/obj/Debug/net8.0-windows/ref/ServiceManagerApp.dll
